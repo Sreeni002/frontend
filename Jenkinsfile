@@ -1,5 +1,4 @@
 @Library('roboshop') _
 
-env.component="frontend"
-env.schema_dir=''
-nginx()
+env.component="cart"
+nodejs()
